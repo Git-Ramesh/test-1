@@ -13,6 +13,7 @@ public class Sample3 {
 	public static void main(String[] args) throws Exception {
 		List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
 		//Git-Conflict
+		//asdgahsdghasgdhsagdhasg
 		//System.out.println(numbers.stream().reduce(0, Sample3::add));
 		//System.out.println(numbers.stream().parallel().reduce(0, Sample3::add));
 		//System.out.println(numbers.stream().reduce(21, Sample3::add)); //76
