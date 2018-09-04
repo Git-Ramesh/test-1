@@ -13,7 +13,7 @@ public class Sample {
 			}
 		}
 		System.out.println(result);
-
+		//Sterams are lazy
 		// Collection Pipeline pattern
 		//Sequential code
 		System.out.println(numbers.stream().filter(num -> num % 2 == 0).mapToInt(num -> num * 2).sum());
